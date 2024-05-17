@@ -1,0 +1,62 @@
+body{
+    background-color: black;
+}
+.container-1 h1{
+    color: white;
+    text-align: center;
+}
+
+button{
+    width: 200px;
+    height: 50px;
+    font-size: 25px;
+    justify-content: center;
+    margin-left: 660px;
+}
+iframe{
+    padding-top: 20px;
+
+}
+.container{
+    background-color: black;
+    
+}
+h1{
+    color: white;
+}
+
+.data{
+    color: white;
+}
+
+.no-underline {
+    text-decoration: none;
+    color: inherit; 
+}
+
+.fetch-button {
+    border: none; 
+    background-color: #4CAF50;
+    color: white; 
+    padding: 15px 32px; 
+    text-align: center; 
+    text-decoration: none; 
+    display: inline-block; 
+    font-size: 16px; 
+    margin: 4px 2px; 
+    cursor: pointer; 
+    border-radius: 4px; 
+}
+
+.fetch-button a {
+    color: white; 
+    text-decoration: none; 
+}
+
+.fetch-button:hover {
+    background-color: #45a049; 
+}
+
+.fetch-button a:hover {
+    color: white; 
+}
